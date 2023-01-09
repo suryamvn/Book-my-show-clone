@@ -1,0 +1,19 @@
+/* This is a global css file, which can be accessed in any file without even importing this file in that file which needs access */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* utilities means like padding, flex etc. */
+
+body {
+  background-color: #f5f5f5 !important;
+}
+
+.slick-prev {
+  left: 3% !important;
+  z-index: 1;
+}
+
+.slick-next {
+  right: 3% !important;
+  z-index: 1;
+}
