@@ -1,3 +1,7 @@
+# Book-my-show-clone
+
+This is a frontend website which is inspired by the styles and layouts of the original book-my-show website. This website uses ReactJs and npm modules mainly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
