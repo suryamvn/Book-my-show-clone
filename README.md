@@ -1,4 +1,4 @@
-# Book-my-show-clone
+# MovieHub
 
 This is a frontend website which is inspired by the styles and layouts of the original book-my-show website. This website uses ReactJs and npm modules mainly.
 
